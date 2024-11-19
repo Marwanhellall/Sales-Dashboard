@@ -15,7 +15,7 @@ The Clothing Sales Dashboard is a Power BI project designed to analyze and visua
 * Interactive Filters: Includes filters for time period, product category, region, and customer segments.
 
 
-Tools and Technologies
+⚙️ Tools and Technologies
 Power BI: For creating and visualizing the dashboard
 Data Transformation: Power Query was used for cleaning and structuring the raw data
 DAX (Data Analysis Expressions): For creating calculated columns and measures
