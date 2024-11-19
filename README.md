@@ -21,6 +21,9 @@ Data Transformation: Power Query was used for cleaning and structuring the raw d
 DAX (Data Analysis Expressions): For creating calculated columns and measures
 Microsoft Excel/CSV: As a source for raw data
 
+Dashboard Insights
+
+
 
 
 ### 🚧 Prerequisites
