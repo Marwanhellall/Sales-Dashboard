@@ -17,5 +17,5 @@ The Clothing Sales Dashboard is a Power BI project designed to analyze and visua
 ### 🚧 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-* ![image](https://github.com/user-attachments/assets/f2cdf6ed-f32d-41c4-8725-0b7c57a3110b) Power BI
+* <p> <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="word" width="20" height="20"> IntelliJ IDEA or <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="word" width="20" height="20"> Power Bi</p>
 * Excel 
