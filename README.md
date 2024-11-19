@@ -18,4 +18,10 @@ The Clothing Sales Dashboard is a Power BI project designed to analyze and visua
 Before you begin, ensure you have met the following requirements:
 
 * <p> <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="word" width="20" height="20"> Power Bi</p>
-* Excel 
+* Excel
+
+### 🛠️ Installation  
+
+```
+https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop
+```
